@@ -1,16 +1,4 @@
 {
-  "deletedSongs": [
-    {
-      "id": "",
-      "title": "",
-      "artist": ""
-    }
-  ],
-  "favoriteSongs": [
-    {
-      "id": "",
-      "title": "",
-      "artist": ""
-    }
-  ]
+  "deletedSongs": [],
+  "favoriteSongs": []
 }
